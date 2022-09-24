@@ -5,6 +5,7 @@
         "parser": {
             "syntax": "ecmascript",
             "jsx": true
-        }
+        },
+        "externalHelpers": true
     }
 }
